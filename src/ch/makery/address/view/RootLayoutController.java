@@ -1,3 +1,5 @@
+package ch.makery.address.view;
+
 import ch.makery.address.MainApp;
 import javafx.fxml.FXML;
 import javafx.scene.control.Alert;
